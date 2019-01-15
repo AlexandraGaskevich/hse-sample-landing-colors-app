@@ -1,2 +1,6 @@
 @import "reset.css";
-@import "layout.css";
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
