@@ -11,9 +11,6 @@
     text-align: left;
   }
 
-  .intro h1 {
-    width: 276px;
-  }
 
   .intro p {
     width: 295px;
@@ -35,11 +32,4 @@
     background-size: cover;
   }
 
-  .keypoints {
-    width: 590px;
-  }
-
-  article {
-    width: 260px;
-  }
 }
