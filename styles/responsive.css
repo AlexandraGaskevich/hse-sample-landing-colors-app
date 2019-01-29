@@ -32,4 +32,8 @@
     background-size: cover;
   }
 
+  .keypoints h2 {
+    display: block;
+  }
+
 }

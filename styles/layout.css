@@ -59,6 +59,10 @@ header nav {
   padding-top: 90px;
 }
 
+.keypoints h2{
+  display: none;
+}
+
 .keypoints article {
   width: 260px;
   height: 292px;
